@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Calloway Sutton</h1>
 <h3 align="center">It's best to code.</h3>
 
@@ -10,8 +11,6 @@
 - 💬 Ask me about mountain biking, hiking, running, super trampolining, or soccer
 - 📫 How to reach me: [Instagram](instagram.com/callowaysutton) and [Email](mailto:contact@ceo.sex) would probably be best
 - ⚡ Fun fact: my first laptop, in 2008, was an x86 compatible single core 433Mhz beast which is now approximately 2.5-3x slower than my current router with its Quad-core ARMv11 1.7Ghz chip.
-
-<p align="left"> <a href="https://twitter.com/suttoncalloway" target="blank"><img src="https://img.shields.io/twitter/follow/suttoncalloway?logo=twitter&style=for-the-badge" alt="suttoncalloway" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callowaysutton&show_icons=true&locale=en&layout=compact" alt="callowaysutton" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&show_icons=true&locale=en" alt="callowaysutton" /></p>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=callowaysutton&label=Profile%20views&color=0e75b6&style=flat" alt="callowaysutton" />
