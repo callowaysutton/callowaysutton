@@ -25,6 +25,5 @@
 <p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=callowaysutton&show_icons=true&locale=en&layout=compact" alt="callowaysutton" />
 <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&show_icons=true&locale=en" alt="callowaysutton" /></p>
 
-<p>
+<br />
 <img align="left" src="https://komarev.com/ghpvc/?username=callowaysutton&label=Profile%20views&color=0e75b6&style=flat" alt="callowaysutton" />
-</p>
