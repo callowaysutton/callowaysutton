@@ -9,6 +9,6 @@
 - ⚡ Fun fact: my first laptop, in 2008, was an x86 compatible single core 433Mhz beast which is now approximately 2.5-3x slower than my current router with its Quad-core ARMv11 1.7Ghz chip.
 
 <p>
-<img align="center" width="25%" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&theme=radical&cache=busted&layout=compact" >
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callowaysutton&layout=compact&theme=radical" >
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&theme=radical&cache=busted&layout=compact" >
+<img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callowaysutton&layout=compact&theme=radical" >
 </p>
