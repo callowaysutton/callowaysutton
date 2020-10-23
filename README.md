@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&show_icons=true&locale=en" alt="callowaysutton" /></p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=callowaysutton&label=Profile%20views&color=0e75b6&style=flat" alt="callowaysutton" />
+<img align="left" src="https://komarev.com/ghpvc/?username=callowaysutton&label=Profile%20views&color=0e75b6&style=flat" alt="callowaysutton" />
