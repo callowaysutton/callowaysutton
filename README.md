@@ -3,14 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callowaysutton" alt="callowaysutton" /></a> </p>
 
-- 🔭 I’m currently working on [A small toolbox webapp](https://github.com/callowaysutton/WebToolBox) for middle schoolers trying to dive into coding, a Vulkan 2D game engine and the Shaft Programming Language; Last two are very much Work in Progress
-- 🌱 I’m currently learning the WebAssembly and WASI system integration
-- 👯 I’m looking to collaborate on the small toolbox webapp
-- 🤔 I’m looking for help with the Vulkan API
-- 💬 Ask me about mountain biking, hiking, running, acrobatics, or computers!
-- 📫 How to reach me: [Instagram](instagram.com/callowaysutton) and [Email](mailto:calloway@myself.com) would probably be best
-- ⚡ Fun fact: my first laptop, in 2008, was an x86 compatible single core 433Mhz beast which is now approximately 2.5-3x slower than my current router with its Quad-core ARMv11 1.7Ghz chip.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/suttoncalloway" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="suttoncalloway" height="30" width="40" /></a>
@@ -21,4 +13,4 @@
 <img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&show_icons=true&locale=en" alt="callowaysutton" /></p>
 
 <br />
-<img align="left" src="https://komarev.com/ghpvc/?username=callowaysutton&label=Profile%20views&color=0e75b6&style=flat" alt="callowaysutton" />
+<img src="https://komarev.com/ghpvc/?username=callowaysutton&label=Profile%20views&color=0e75b6&style=flat" alt="callowaysutton" />
