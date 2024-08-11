@@ -2,8 +2,8 @@
 </h1>
 
 <p>
-<img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs?username=callowaysutton&show_icons=true&locale=en&layout=compact" alt="callowaysutton" />
-<img height="205px" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&show_icons=true&locale=en" alt="callowaysutton" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=callowaysutton&show_icons=true&locale=en&layout=compact" alt="callowaysutton" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=callowaysutton&show_icons=true&locale=en" alt="callowaysutton" />
 <img src="https://github-profile-trophy.vercel.app/?username=callowaysutton" alt="callowaysutton" />
 </p>
   
